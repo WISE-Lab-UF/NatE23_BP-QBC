@@ -1,6 +1,8 @@
 # NatE23_BP-QBC
-Data and Codes for BP-QBC paper: Biphasic quasistatic brain communication for energy-efficient wireless neural implants
-Nature ELectronics, 2023
+Data and Codes for BP-QBC work:
+
+Title: Biphasic quasistatic brain communication for energy-efficient wireless neural implants;
+Nature Electronics, 2023;
 Authors: Baibhab Chatterjee, Mayukh Nath, K. Gaurav Kumar, Shulan Xiao, Jaynat Krishna and Shreyas Sen.
 doi: https://doi.org/10.1038/s41928-023-01000-3
 
