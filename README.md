@@ -1,4 +1,4 @@
-# NatE23_BP-QBC
+# Nature_Electronics_BiPhasic_Brain_Communication
 Data and Codes for BP-QBC work:
 
 Title: Biphasic quasistatic brain communication for energy-efficient wireless neural implants;
